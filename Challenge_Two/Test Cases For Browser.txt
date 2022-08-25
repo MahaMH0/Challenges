@@ -1,0 +1,21 @@
+1-number of users that access the browser at the same time.
+2-number of tabs that can handled with performance.
+3-Response time for the page to Load at first time.
+4-moving from tab to tab response time.
+5-open new tab.
+6-authorized users for the browser.
+7-add new bookmark.
+8-delete bookmark.
+9-check history after browsing some websites.
+10-access page from history.
+11-delete history.
+12-access the same page after delete history and compare response time.
+13-add extension.
+14-delete extension.
+15-test pop up extension if it work well on the browser or not.
+16-check create user page.
+17-check validation for name and password and email and phone number.
+18-check login for existing user.
+19-check access with user not existing.
+20-check with wrong password.
+21-check forget password for existing user.

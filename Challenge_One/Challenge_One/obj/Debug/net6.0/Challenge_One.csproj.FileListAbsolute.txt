@@ -1,0 +1,15 @@
+D:\Professional Web Development and BI\Preparing\DXWand\Challenge_One\Challenge_One\bin\Debug\net6.0\Challenge_One.exe
+D:\Professional Web Development and BI\Preparing\DXWand\Challenge_One\Challenge_One\bin\Debug\net6.0\Challenge_One.deps.json
+D:\Professional Web Development and BI\Preparing\DXWand\Challenge_One\Challenge_One\bin\Debug\net6.0\Challenge_One.runtimeconfig.json
+D:\Professional Web Development and BI\Preparing\DXWand\Challenge_One\Challenge_One\bin\Debug\net6.0\Challenge_One.dll
+D:\Professional Web Development and BI\Preparing\DXWand\Challenge_One\Challenge_One\bin\Debug\net6.0\ref\Challenge_One.dll
+D:\Professional Web Development and BI\Preparing\DXWand\Challenge_One\Challenge_One\bin\Debug\net6.0\Challenge_One.pdb
+D:\Professional Web Development and BI\Preparing\DXWand\Challenge_One\Challenge_One\obj\Debug\net6.0\Challenge_One.csproj.AssemblyReference.cache
+D:\Professional Web Development and BI\Preparing\DXWand\Challenge_One\Challenge_One\obj\Debug\net6.0\Challenge_One.GeneratedMSBuildEditorConfig.editorconfig
+D:\Professional Web Development and BI\Preparing\DXWand\Challenge_One\Challenge_One\obj\Debug\net6.0\Challenge_One.AssemblyInfoInputs.cache
+D:\Professional Web Development and BI\Preparing\DXWand\Challenge_One\Challenge_One\obj\Debug\net6.0\Challenge_One.AssemblyInfo.cs
+D:\Professional Web Development and BI\Preparing\DXWand\Challenge_One\Challenge_One\obj\Debug\net6.0\Challenge_One.csproj.CoreCompileInputs.cache
+D:\Professional Web Development and BI\Preparing\DXWand\Challenge_One\Challenge_One\obj\Debug\net6.0\Challenge_One.dll
+D:\Professional Web Development and BI\Preparing\DXWand\Challenge_One\Challenge_One\obj\Debug\net6.0\ref\Challenge_One.dll
+D:\Professional Web Development and BI\Preparing\DXWand\Challenge_One\Challenge_One\obj\Debug\net6.0\Challenge_One.pdb
+D:\Professional Web Development and BI\Preparing\DXWand\Challenge_One\Challenge_One\obj\Debug\net6.0\Challenge_One.genruntimeconfig.cache
